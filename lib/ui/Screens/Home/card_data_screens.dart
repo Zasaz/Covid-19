@@ -1,6 +1,5 @@
 import 'dart:ffi';
 import 'dart:ui';
-import 'package:covid_19/ui/Screens/Home/CardScreens/current_stats.dart';
 import 'package:covid_19/ui/model/grid_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

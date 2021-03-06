@@ -53,7 +53,7 @@ class Precautions extends StatelessWidget {
                     onPressed: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => HomeData()),
+                        MaterialPageRoute(builder: (context) => HomePage()),
                       );
                     },
                     padding: EdgeInsets.symmetric(vertical: 10),
